@@ -1,5 +1,4 @@
 #_________________________Aguamiel__________________________________#
-setwd("C:/Users/VT/Documents/UAQ/Proyecto de investigación/Tesis/Construcción del proyecto/Construcción tesis/Resultados/Elucidacion de tendencias")
 
 agua=read.csv("Compendio final de resultados promedio de aguamiel actualizado 12 abr.csv")
 agua
@@ -243,8 +242,6 @@ text(clsagua, row.names(agua), cex=0.6, pos=4, col="red")
 #IMPORTANT: Always clear your environment prior to running another sample's code :)
 
 #_____________________Pulque semilla or fermentation starter__________________#
-setwd("C:/Users/VT/Documents/UAQ/Proyecto de investigación/Tesis/Construcción del proyecto/Construcción tesis/Resultados/Elucidacion de tendencias")
-
 sem=read.csv("Compendio final de resultados promedio de semilla actualizado 12 abr.csv")
 sem
 #IMPORTANT: on reducing sugars, there are three values calculated as less than, rather
@@ -459,8 +456,6 @@ text(clsem, row.names(sem), cex=0.6, pos=4, col="red")
 #IMPORTANT: Always clear your environment prior to running another sample's code :)
 
 #______________________________Joven_____________________#
-setwd("C:/Users/VT/Documents/UAQ/Proyecto de investigación/Tesis/Construcción del proyecto/Construcción tesis/Resultados/Elucidacion de tendencias")
-
 you=read.csv("Compendio final de resultados promedio de joven actualizado 12 abr.csv")
 you
 #IMPORTANT: on reducing sugars, one value is calculated as less than, rather
