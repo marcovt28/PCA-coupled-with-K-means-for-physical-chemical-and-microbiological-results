@@ -40,5 +40,3 @@ corresponding to a certain sampling):
 
 Thank you for your time!
 
-
-Fort acdcsdcsdcsdcsdcsd
